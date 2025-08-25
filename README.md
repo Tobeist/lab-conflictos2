@@ -1,1 +1,2 @@
-# lab-conflictos2
+# "Esta línea fue agregada en feature-a"
+
